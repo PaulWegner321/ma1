@@ -4,10 +4,8 @@
 
 ### Group members
 | Student name | Student ID |
-| --- | --- |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
-| #NAME# | #ID# |
+
+| Paul Wegner | 158309 |
 
 ***
 
